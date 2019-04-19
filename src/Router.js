@@ -9,7 +9,7 @@ const Router = () => {
     <Switch>
        <Route exact path="/" component={Counter} />
        <Route path="/about" component={Info} />
-       <Route path render={() => <p>Not found :(</p>} />
+       <Route render={() => <p>Not found :(</p>} />
     </Switch>
   );
 };

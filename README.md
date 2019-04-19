@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+it was added to the project Redux, Redux-thunk, React-Router 5, Redux Connected Router.
+
 ## Available Scripts
 
 In the project directory, you can run:
